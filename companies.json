@@ -1,14 +1,177 @@
 [
   {
     "name": "Sazim",
-    "url": "https://www.sazim.io/careers"
+    "url": "https://www.sazim.io/careers",
+    "fresherHiring": "unclear"
   },
   {
     "name": "Tekarsh",
-    "url": "https://tekarsh.com/career"
+    "url": "https://tekarsh.com/career",
+    "fresherHiring": "unclear"
   },
   {
     "name": "Cefalo",
-    "url": "https://career.cefalo.com/"
+    "url": "https://career.cefalo.com/",
+    "fresherHiring": "selective"
+  },
+  {
+    "name": "Vivasoft Limited",
+    "url": "https://vivasoftltd.com/career/",
+    "fresherHiring": "strong"
+  },
+  {
+    "name": "Polygon Technology",
+    "url": "https://polygontechnology.io/careers/",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "Selise Digital Platforms",
+    "url": "https://selisegroup.com/about-us/",
+    "fresherHiring": "selective"
+  },
+  {
+    "name": "Therap (Formerly Infolytx)",
+    "url": "https://therapbd.com/",
+    "fresherHiring": "strong"
+  },
+  {
+    "name": "REVE Systems",
+    "url": "https://www.revesoft.com/about/career",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "Optimizely",
+    "url": "https://www.optimizely.com/careers/",
+    "fresherHiring": "selective"
+  },
+  {
+    "name": "Enosis Solutions",
+    "url": "https://www.enosisbd.com/careers",
+    "fresherHiring": "selective"
+  },
+  {
+    "name": "Pathao",
+    "url": "https://pathao.com/careers/",
+    "fresherHiring": "selective"
+  },
+  {
+    "name": "Chaldal",
+    "url": "https://chaldal.tech/",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "Slythz Labs",
+    "url": "https://slythz.com/careers",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "LeanCore Technologies",
+    "url": "https://leancore.co/careers",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "JoulesLabs",
+    "url": "https://www.jouleslabs.com/career",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "QoderLabs",
+    "url": "https://qoderlabs.com/careers",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "Bright Future Soft",
+    "url": "https://brightfuturesoft.com/career",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "Incrosoft",
+    "url": "https://incrosoft.com/career",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "LogiQbits Limited",
+    "url": "https://logiqbits.com/career",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "Imperial Engineers Limited",
+    "url": "https://imperialengineers.com/careers",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "TigerIT Bangladesh Limited",
+    "url": "https://www.tigerit.com/contact.html",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "Brain Station 23",
+    "url": "https://brainstation-23.com/career-verse/",
+    "fresherHiring": "strong"
+  },
+  {
+    "name": "Dynamic Solution Innovators (DSi)",
+    "url": "https://www.dsinnovators.com/teams/",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "Nascenia",
+    "url": "https://nascenia.com/about/",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "Craftsmen",
+    "url": "https://craftsmenltd.com/careers",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "Flyte Solutions",
+    "url": "https://flyte.solutions/careers",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "Technext",
+    "url": "https://technext.it/career",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "RadiusTheme",
+    "url": "https://www.radiustheme.com/career/",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "Kaz Software",
+    "url": "https://www.kaz.com.bd/company/career",
+    "fresherHiring": "strong"
+  },
+  {
+    "name": "BJIT Group",
+    "url": "https://bjitgroup.com/career",
+    "fresherHiring": "selective"
+  },
+  {
+    "name": "Dream71 Bangladesh",
+    "url": "https://dream71.com/career",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "DataSoft Systems Bangladesh",
+    "url": "https://datasoft-bd.com/career",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "LeadSoft Bangladesh",
+    "url": "https://leadsoft.com.bd/career",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "BDTask",
+    "url": "https://bdtask.com/career",
+    "fresherHiring": "unclear"
+  },
+  {
+    "name": "NerdDevs",
+    "url": "https://nerddevs.com/careers",
+    "fresherHiring": "unclear"
   }
 ]
