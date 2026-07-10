@@ -1,14 +1,6 @@
 {
   "last_batch_start": "2026-07-09T18:26:42.780400299Z",
-  "pending": [
-    "DataSoft Systems Bangladesh",
-    "LeadSoft Bangladesh",
-    "BDTask",
-    "NerdDevs",
-    "LeadSoft Bangladesh",
-    "BDTask",
-    "NerdDevs"
-  ],
+  "pending": null,
   "seen_jobs": {
     "049cf9189023c4d7f204327c02d0ed330bce43e30a9fc4106ccd0b31682d52e4": true,
     "0759c10d2670f4b84d91c2a571049eb6407b8f7f5e80ed5c5a4bfd86461bdf09": true,
